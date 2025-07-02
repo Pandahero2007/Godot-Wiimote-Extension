@@ -1,3 +1,5 @@
+**⚠️THIS ONLY WORKS IN THE .NET VERSION OF GODOT⚠️**
+
 # Godot Wiimote Extension
 
 A Godot 4 plugin that adds support for Nintendo Wii Remotes, including:
