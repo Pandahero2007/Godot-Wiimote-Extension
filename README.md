@@ -19,8 +19,8 @@ Powered by [WiimoteLib](https://github.com/benthor/wiiuse/tree/master/managed/Wi
    - **Name**: `WiimoteBridge` → `res://addons/wiimote/WiimoteBridge.gd`
 3. Ensure C# support is enabled in your project.
 4. Make sure your wii remotes are connected to your computer via bluetooth.
-  - [This tutorial](https://www.youtube.com/watch?v=J-s9gZJNp8o) is good if you are having issues. **Dolphin is not needed here.**
-5. Run your game and press buttons on your wii remotes(s) to connect automatically.
+    - [This tutorial](https://www.youtube.com/watch?v=J-s9gZJNp8o) is good if you are having issues. **Dolphin is not needed here.**
+6. Run your game and press buttons on your wii remotes(s) to connect automatically.
 
 ---
 
